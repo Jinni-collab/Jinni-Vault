@@ -1,0 +1,17 @@
+# Obsidian 本地設定(app 設定、插件、hotkey、graph、workspace 等)
+# 跨電腦不 share,每台電腦各自管理
+.obsidian/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 編輯器暫存
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
