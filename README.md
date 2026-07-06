@@ -29,8 +29,10 @@
     git-workflow.md      ← Git 日常同步、換電腦、衝突救援
     vault-audit.md       ← 索引完整性檢查,每月跑一次
     vault-changelog.md   ← 核心檔案更新紀錄的歸檔處
+    vault-daily-usage.md ← Vault 日常使用手冊:操作流程、常用指令、維護節奏、異常排除
 
-  /operations            ← 營運硬資訊(報名收費、退費政策),尚無檔案
+  /operations
+    ilio-refund-policy.md ← 伊利歐共學團退費標準原文(涉及金流,修改前讀 context/foundation.md)
   /people                ← 重要聯絡人背景,尚無檔案
   /skills                ← Jentor 的技能檔案,尚無檔案
 ```
@@ -75,7 +77,7 @@
 
 ---
 
-*最後更新:2026/07/06(檢索優化:README 升級為逐檔索引,sop 加 frontmatter)*
-*前次更新:2026/07/06(Vault 初始建置)*
+*最後更新:2026/07/06(sop/ 新增 vault-daily-usage.md,更新資料夾索引)*
+*前次更新:2026/07/06(operations/ 新增 ilio-refund-policy.md,更新資料夾索引)*
 
 *更新 log 規則:只留最新兩條。新增一條時,把被擠掉的那條搬進 `sop/vault-changelog.md`。*
